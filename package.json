@@ -1,0 +1,11 @@
+{
+  "name": "GitHub-Actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/czamoraz/GitHub-Actions.git",
+  "author": "Cristobal Zamora <czamorz@uc.cl>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
